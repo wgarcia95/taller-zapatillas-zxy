@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="adidas"></string>
+    <string name="zapatilla">Shoe</string>
+    <string name="tienda">Shop</string>
+    <string name="puma_clasico_2">Puma Classic $120.000</string>
+    <string name="puma_clasico">Puma Clasic $100.000</string>
+    <string name="nike_clasico_2">Nike Classic $60.000</string>
+    <string name="nike_clasico">Nike Classic $50.000</string>
+    <string name="nike_2">Nike Shoe $100.000</string>
+    <string name="mujer">Woman</string>
+    <string name="hombres">Men</string>
+    <string name="error_uno">Number</string>
+    <string name="clasico">Classic</string>
+    <string name="calcular">Calculator</string>
+    <string name="borrar">clear</string>
+    <string name="adidas_clasico_2">Adidas Classic</string>
+    <string name="adidas_clasico">Adidas Classic</string>
+    <string name="adidas_2">Adidas Shoe</string>
+</resources>

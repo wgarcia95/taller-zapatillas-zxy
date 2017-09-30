@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="hombres" >Hombre</string>
+    <string name="tienda">Tienda ZXY</string>
+    <string name="mujer">Mujer</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string name="nike" translatable="false">Nike $120.000</string>
+    <string name="adidas" translatable="false">Adidas $140.000</string>
+    <string name="puma" translatable="false">Puma $130.000</string>
+    <string name="error_uno">Digite un numero</string>
+    <string name="nike_clasico">Nike clasico $50.000</string>
+    <string name="adidas_clasico">Adidas Clasico $80.000</string>
+    <string name="puma_clasico">Puma Clasico $100.000</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string-array name="zapatillas1">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+        <item>@string/nike_clasico</item>
+        <item>@string/adidas_clasico</item>
+        <item>@string/puma_clasico</item>
+    </string-array>
+    <string name="nike_2">Nike Zapatilla $100.000</string>
+    <string name="adidas_2">Adidas Zapatillas $130.000</string>
+    <string name="puma_2" translatable="false">Puma $110.000</string>
+    <string name="nike_clasico_2">Nike Clasico $60.000</string>
+    <string name="adidas_clasico_2">Adidas Clasico $70.000</string>
+    <string name="puma_clasico_2">Puma Clasico $120.000</string>
+    <string-array name="zapatillas2">
+        <item>@string/nike_2</item>
+        <item>@string/adidas_2</item>
+        <item>@string/puma_2</item>
+        <item>@string/nike_clasico_2</item>
+        <item>@string/adidas_clasico_2</item>
+        <item>@string/puma_clasico_2</item>
+    </string-array>
+</resources>
